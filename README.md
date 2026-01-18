@@ -20,5 +20,5 @@ A classic Snake Game developed using Java and Swing with sound effects and high 
 
 ## ▶ How to Run
 ```bash
-javac snakegame.java
-java snakegame
+javac SnakeGame.java
+java Snakegame
